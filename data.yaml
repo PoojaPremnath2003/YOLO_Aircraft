@@ -1,0 +1,7 @@
+names: ['aircraft']
+
+nc: 1
+
+test: ../test/images
+train: /content/datasets/testingplate-3/train/images
+val: /content/datasets/testingplate-3/valid/images
